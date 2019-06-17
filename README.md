@@ -3,7 +3,7 @@ Voronoi diagram on a shapefile of Singapore and delimit the voronoi diagram with
 
     Voronoi diagram on a shapefile of Singapore and delimit the voronoi diagram with the boundaries of the map.
 
-    for graphic outpt see
+    for graphic output see
     https://tinyurl.com/ybcy3p4r
     https://github.com/rogerjdeangelis/utl_voronoi_diagram_on_a_shapefile_of_singapore/blob/master/utl_voronoi_diagram_on_a_shapefile_of_singapore2.pdf
     https://tinyurl.com/y7tpgel3
